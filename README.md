@@ -10,12 +10,13 @@
 
 A passionate learner of new things
 
-### 🖥 Skills
+###  Skills
 
-- My_SQL
-- Python
-- Excel 
-- Power Bi
+- Team management
+- Community liaisoing & Convergence
+- Strategic Planning & Communiction
+- Problem solving & Decision making
+- Flexible and Adoptable
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=373636) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=373636) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=373636) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=373636) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=373636)
