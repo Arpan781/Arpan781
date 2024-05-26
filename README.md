@@ -1,3 +1,4 @@
+![logo](https://github.com/Arpan781/Arpan781/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Arpan Ghosh</h1>
 <h3 align="center">A passionate learner of new things</h3>
 <img align="right" alt="Data_Analysis" width="400" src="https://i.pinimg.com/originals/71/12/41/71124103252a3f67a657c1a276d565a6.gif">
