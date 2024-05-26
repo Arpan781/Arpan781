@@ -1,4 +1,5 @@
-# Arpan Ghosh
+# Hi 👋, I'm Arpan Ghosh
+
 ![logo](https://github.com/Arpan781/Arpan781/blob/main/Github%20Banner.png)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farpan781%2Farpan781&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -17,6 +18,8 @@ A passionate learner of new things
 - Strategic Planning & Communiction
 - Problem solving & Decision making
 - Flexible and Adoptable
+- Excel
+- Power Bi
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=373636) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=373636) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=373636) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=373636) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=373636)
