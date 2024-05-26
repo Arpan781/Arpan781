@@ -1,36 +1,28 @@
-![logo](https://github.com/Arpan781/Arpan781/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Arpan Ghosh</h1>
-<h3 align="center">A passionate learner of new things</h3>
-<img align="right" alt="Data_Analysis" width="400" src="https://i.pinimg.com/originals/71/12/41/71124103252a3f67a657c1a276d565a6.gif">
+# Arpan Ghosh
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=arpan781&label=Profile%20views&color=0e75b6&style=flat" alt="arpan781" /> 
-</p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farpan781%2Farpan781&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- ✉️ Mail Id: **arpan781@gmail.com**
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/arpan-ghosh-10b18922a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBF4GjpqpSB%2Bu3X%2BezaGKvw%3D%3D/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/arpan_gsh/)](https://www.instagram.com/arpan_gsh)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arpan781@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/arpan-ghosh-10b18922a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bpao5O%2BVeS2GrXf7CwTl3ww%3D%3D" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arpan_Ghosh_Linkedin" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/https://l.instagram.com/?u=http%3a%2f%2ft.me%2fme_as_arpan&e=at3phw83yyt_5lsqqemmvhoo9gf5gvpvj0la0yp29ffrdcenq0spvziugp8iqgbpad0der4v3mubo77vc2ezkb9bp_zfppe46elvlhg5jo8w0qvbmihqha" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Arpan_Ghosh_Instagram" height="30" width="40" />
-  </a>
-</p>
+[![Github](https://img.shields.io/github/followers/arpan781?label=Follow&style=social)](https://github.com/arpan781)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
+A passionate learner of new things
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpan781&show_icons=true&locale=en&layout=compact" alt="arpan781" /></p>
+### 🖥 Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpan781&show_icons=true&locale=en" alt="arpan781" /></p>
+- My_SQL
+- Python
+### ⚙️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpan781&" alt="arpan781" /></p>
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=373636) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=373636) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=373636) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=373636) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=373636)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpan781&show_icons=true&locale=en&layout=compact" alt="arpan781" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=arpan781&" alt="arpan781" />
+</div>
+
+
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
